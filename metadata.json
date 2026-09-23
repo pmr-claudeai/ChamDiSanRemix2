@@ -1,0 +1,6 @@
+{
+  "name": "Chạm Di Sản",
+  "description": "Nền tảng bảo tồn, số hóa và lan tỏa giá trị di sản văn hóa Việt Nam - Chạm Di Sản",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
